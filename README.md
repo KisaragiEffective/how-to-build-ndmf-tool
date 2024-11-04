@@ -97,7 +97,7 @@ TODO: `BeforePlugin`
 
 TODO: https://docs.unity3d.com/ja/2022.3/Manual/upm-manifestPkg.html
 * 最小Unityのバージョン
-* 真に必要なパッケージにおいてサポートされる最小のバージョン (よくある勘違い: 範囲で指定←無理)
+* 真に必要なパッケージにおいてサポートされる最小のバージョン (よくある勘違い: 範囲で指定←VPMでしかできない)
   * `optionalDependency` はありません
 
 ## UI
