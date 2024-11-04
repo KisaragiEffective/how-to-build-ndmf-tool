@@ -1,5 +1,8 @@
 # How to build my own NDMF tool
+この資料はKisaragi Marineが編纂した資料です。そのため、誤字・脱字・誤謬などが含まれる可能性があります。この資料はCC0 1.0で提供されます。そのため、あらゆる責任は許容される最大限の範囲で免責されます。
 
+また、NDMFの作者であるbd_氏によるレビューを経ていないため、実装やAPIの使い方などが不適切な可能性があります。
+不適切な内容や改善点がある場合は[GitHub](https://github.com/KisaragiEffective/how-to-build-ndmf-tool)にて提案を受け付けています。
 ## 最小限の構成
 
 最小限の構成は、[NDMFのサンプル](https://github.com/bdunderscore/ndmf/blob/1.5.0/Editor/Samples~/SetViewpointPlugin.cs) に示されているように至ってシンプルです。
